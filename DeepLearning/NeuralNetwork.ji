@@ -1,0 +1,14 @@
+type NeuralLayer
+    w::Matrix{Float64}   # weights
+    b::Vector{Float64}   # biases
+    a_func::Function     # activation function
+    a_derv::Function     # activation funciton derivative
+
+    # The following must be tracked for back propagation
+    hx::Vector{Float64}  # input values
+    pa::Vector{Float64}  # pre activation values
+    pr::Vector{Float64}  # predictions (activation values)
+    # Gradients
+    wgr::Matrix{Float64} # weight gradient
+    bgr::Vector{Float64} # bias gradient
+end
