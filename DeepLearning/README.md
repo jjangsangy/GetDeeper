@@ -5,7 +5,7 @@
 
 [1998 - _LeCun Y._: __Efficient Backprop__](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
-[2001 - _Bengio S_: __Gradient flow in recurrent nets__](ftp://ftp.idsia.ch/pub/juergen/gradientflow.pdf)
+[2001 - _Bengio S_: __Gradient flow in recurrent nets__](ftp.idsia.ch/pub/juergen/gradientflow.pdf)
 
 [2004 - _Hinton D.E._ __Reducing the Dimensionality of Data with Neural Networks__](http://www.cs.toronto.edu/~rsalakhu/papers/science.pdf)
 
