@@ -1,6 +1,6 @@
 # Neural Net References
 
-![learning](http://i.imgur.com/Ex6l4vD.gif)
+<img src="http://i.imgur.com/Ex6l4vD.gif" align="center">
 
 # Papers
 
