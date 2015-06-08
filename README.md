@@ -1,6 +1,6 @@
 # Neural Net References
 
-<img src="http://i.imgur.com/Ex6l4vD.gif" align="center">
+<center><img src="http://i.imgur.com/Ex6l4vD.gif" style="display:block;" /></center>
 
 # Papers
 
